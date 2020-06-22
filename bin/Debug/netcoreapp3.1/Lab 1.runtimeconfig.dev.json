@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Jcarter/.dotnet/store/|arch|/|tfm|",
+      "/Users/Jcarter/.nuget/packages"
+    ]
+  }
+}
